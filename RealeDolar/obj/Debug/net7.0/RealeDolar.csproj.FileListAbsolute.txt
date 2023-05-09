@@ -1,0 +1,15 @@
+C:\Users\49802004863\Desktop\RealeDolar\bin\Debug\net7.0\RealeDolar.exe
+C:\Users\49802004863\Desktop\RealeDolar\bin\Debug\net7.0\RealeDolar.deps.json
+C:\Users\49802004863\Desktop\RealeDolar\bin\Debug\net7.0\RealeDolar.runtimeconfig.json
+C:\Users\49802004863\Desktop\RealeDolar\bin\Debug\net7.0\RealeDolar.dll
+C:\Users\49802004863\Desktop\RealeDolar\bin\Debug\net7.0\RealeDolar.pdb
+C:\Users\49802004863\Desktop\RealeDolar\obj\Debug\net7.0\RealeDolar.csproj.AssemblyReference.cache
+C:\Users\49802004863\Desktop\RealeDolar\obj\Debug\net7.0\RealeDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802004863\Desktop\RealeDolar\obj\Debug\net7.0\RealeDolar.AssemblyInfoInputs.cache
+C:\Users\49802004863\Desktop\RealeDolar\obj\Debug\net7.0\RealeDolar.AssemblyInfo.cs
+C:\Users\49802004863\Desktop\RealeDolar\obj\Debug\net7.0\RealeDolar.csproj.CoreCompileInputs.cache
+C:\Users\49802004863\Desktop\RealeDolar\obj\Debug\net7.0\RealeDolar.dll
+C:\Users\49802004863\Desktop\RealeDolar\obj\Debug\net7.0\refint\RealeDolar.dll
+C:\Users\49802004863\Desktop\RealeDolar\obj\Debug\net7.0\RealeDolar.pdb
+C:\Users\49802004863\Desktop\RealeDolar\obj\Debug\net7.0\RealeDolar.genruntimeconfig.cache
+C:\Users\49802004863\Desktop\RealeDolar\obj\Debug\net7.0\ref\RealeDolar.dll
